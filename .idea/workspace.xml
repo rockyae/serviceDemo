@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce584042-ba72-43b3-bada-b2611451794b" name="Changes" comment="some demo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="21" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/core" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/dynamic-datasource-spring/4.5.0/dynamic-datasource-spring-4.5.0-sources.jar!/com/baomidou/dynamic/datasource/annotation/DS.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/dynamic-datasource-spring/4.5.0/dynamic-datasource-spring-4.5.0-sources.jar!/com/baomidou/dynamic/datasource/toolkit/DynamicDataSourceContextHolder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.5.15/mybatis-plus-core-3.5.15.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-spring/3.5.15/mybatis-plus-spring-3.5.15-sources.jar!/com/baomidou/mybatisplus/extension/repository/CrudRepository.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-spring/3.5.15/mybatis-plus-spring-3.5.15-sources.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-spring/3.5.15/mybatis-plus-spring-3.5.15.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java-common/3.1.1357/tencentcloud-sdk-java-common-3.1.1357-sources.jar!/com/tencentcloudapi/common/AbstractClient.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java-sms/3.1.1357/tencentcloud-sdk-java-sms-3.1.1357-sources.jar!/com/tencentcloudapi/sms/v20210111/SmsClient.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java-sms/3.1.1357/tencentcloud-sdk-java-sms-3.1.1357-sources.jar!/com/tencentcloudapi/sms/v20210111/models/DescribeSmsTemplateListRequest.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java-sms/3.1.1357/tencentcloud-sdk-java-sms-3.1.1357-sources.jar!/com/tencentcloudapi/sms/v20210111/models/SendSmsRequest.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java-sms/3.1.1357/tencentcloud-sdk-java-sms-3.1.1357-sources.jar!/com/tencentcloudapi/sms/v20210111/models/SendSmsResponse.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.6.5/reactor-core-3.6.5-sources.jar!/reactor/core/publisher/Mono.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/5.1.1/spring-batch-core-5.1.1-sources.jar!/org/springframework/batch/core/configuration/annotation/BatchRegistrar.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/5.1.1/spring-batch-core-5.1.1-sources.jar!/org/springframework/batch/core/configuration/annotation/EnableBatchProcessing.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/5.1.1/spring-batch-core-5.1.1-sources.jar!/org/springframework/batch/core/configuration/support/ScopeConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/5.1.1/spring-batch-core-5.1.1-sources.jar!/org/springframework/batch/core/job/builder/JobBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/6.0.2/spring-batch-core-6.0.2.jar!/org/springframework/batch/core/step/builder/StepBuilder.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.6/spring-context-6.1.6.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/ByteChannel.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/Channel.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/Selector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/SocketChannel.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/WritableByteChannel.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/nio/channels/spi/AbstractSelectableChannel.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../programs/jdk-17/lib/src.zip!/java.base/java/util/function/Consumer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\programs\maven\apache-maven-3.9.13" />
+        <option name="localRepository" value="C:\Users\WCT.DEV\.m2\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\programs\maven\apache-maven-3.9.13\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3An6salqu8BaTWn6IZ6jHxSj6qB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Company.executor": "Run",
+    "Application.CompletableFutureAllOfDemo.executor": "Debug",
+    "Application.CopyPDF.executor": "Run",
+    "Application.FutureVsCompletableFuture.executor": "Debug",
+    "Application.GlobalPhoneSimple.executor": "Run",
+    "Application.HelloController.executor": "Run",
+    "Application.HelloWorldJobConfiguration.executor": "Debug",
+    "Application.MonoClass.executor": "Run",
+    "Application.SmsSendApplication.executor": "Run",
+    "JUnit.DemoApplicationTests.executor": "Debug",
+    "JUnit.DemoApplicationTests.testMasterSlave.executor": "Debug",
+    "Maven.sms-send [clean].executor": "Run",
+    "Maven.sms-send [compile].executor": "Run",
+    "Maven.sms-send [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.DemoApplication.executor": "Debug",
+    "Spring Boot.DemoGateWayApplication.executor": "Debug",
+    "Spring Boot.SmsSendApplication (1).executor": "Debug",
+    "Spring Boot.SmsSendApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/demo/gateway/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\demo\gateway\src\main\resources" />
+      <recent name="D:\code\demo" />
+      <recent name="D:\code\demo\src\main\resources\mapper" />
+      <recent name="D:\code\demo\src\main\java\com\example\mapper" />
+      <recent name="D:\code\demo\src\main\java\com\example\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\demo\gateway\src\main\java" />
+      <recent name="D:\code\demo" />
+      <recent name="D:\code\demo\gateway" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.po" />
+      <recent name="com.example.mapper.cbs" />
+      <recent name="com.example" />
+      <recent name="com.example.dto" />
+      <recent name="com.example.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoGateWayApplication">
+    <configuration name="CompletableFutureAllOfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.reactor.CompletableFutureAllOfDemo" />
+      <module name="sms-send" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureVsCompletableFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.reactor.FutureVsCompletableFuture" />
+      <module name="sms-send" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.reactor.MonoClass" />
+      <module name="sms-send" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="sms-send" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.DemoGateWayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoGateWayApplication" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="Application.MonoClass" />
+        <item itemvalue="Application.CompletableFutureAllOfDemo" />
+        <item itemvalue="Application.FutureVsCompletableFuture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce584042-ba72-43b3-bada-b2611451794b" name="Changes" comment="" />
+      <created>1773216195271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773216195271</updated>
+    </task>
+    <task id="LOCAL-00001" summary="some demo">
+      <option name="closed" value="true" />
+      <created>1778323044081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778323044081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="some demo" />
+  </component>
+</project>
