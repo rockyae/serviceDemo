@@ -1,22 +1,57 @@
 server:
   port: 9000
+
 spring:
   application:
     name: gate-way
+  config:
+    import: optional:nacos:${spring.application.name}.yaml
   cloud:
     nacos:
       username: nacos
       password: nacos
       discovery:
-        server-addr: 127.0.0.1:8848
+        enabled: true
+        server-addr: localhost:8848
         namespace: public
-  config:
-    import:
-      - optional:nacos:${spring.application.name}.${file-extension:yaml}
-      - optional:nacos:common.${file-extension:yaml}
+        group: DEFAULT_GROUP
+      config:
+        server-addr: ${spring.cloud.nacos.discovery.server-addr}
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowed-origin-patterns: "*"
+            allowed-methods: "*"
+            allowed-headers: "*"
+            allow-credentials: true
+      default-filters:
+        - AddResponseHeader=X-Gateway, gate-way
+      routes:
+        # 显式路由：/api/core/** -> core 服务（去掉 /api/core 前缀）
+        - id: core-api
+          uri: lb://core
+          predicates:
+            - Path=/api/core/**
+          filters:
+            - StripPrefix=2
 
-#management:
-#  endpoints:
-#    web:
-#      exposure:
-#        include: *
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,gateway
+  endpoint:
+    gateway:
+      enabled: true
+    health:
+      show-details: when_authorized
+
+logging:
+  level:
+    org.springframework.cloud.gateway: info
+    com.example.gateway: debug

@@ -1,0 +1,21 @@
+import:
+  dict:
+    # 绝对路径，指向完整市.json（推荐）。不设置则使用 classpath:data/city-dict.json
+    path:
+
+spring:
+  application:
+    name: import-tool
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/cbsx?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      table-underline: true

@@ -1,0 +1,3397 @@
+{
+  "body": {
+    "dictMap": {
+      "area": {
+        "130": [
+          {
+            "key": "130001",
+            "val": "Afijio"
+          },
+          {
+            "key": "130002",
+            "val": "Akinyele"
+          },
+          {
+            "key": "130003",
+            "val": "Atiba"
+          },
+          {
+            "key": "130004",
+            "val": "Atisbo"
+          },
+          {
+            "key": "130005",
+            "val": "Egbeda"
+          },
+          {
+            "key": "130006",
+            "val": "Ibadan North"
+          },
+          {
+            "key": "130007",
+            "val": "Ibadan North-East"
+          },
+          {
+            "key": "130008",
+            "val": "Ibadan North-West"
+          },
+          {
+            "key": "130009",
+            "val": "Ibadan South-East"
+          },
+          {
+            "key": "130010",
+            "val": "Ibadan South-West"
+          },
+          {
+            "key": "130011",
+            "val": "Ibarapa Central"
+          },
+          {
+            "key": "130012",
+            "val": "Ibarapa East"
+          },
+          {
+            "key": "130013",
+            "val": "Ibarapa North"
+          },
+          {
+            "key": "130014",
+            "val": "Ido"
+          },
+          {
+            "key": "130015",
+            "val": "Irepo"
+          },
+          {
+            "key": "130016",
+            "val": "Iseyin"
+          },
+          {
+            "key": "130017",
+            "val": "Itesiwaju"
+          },
+          {
+            "key": "130018",
+            "val": "Iwajowa"
+          },
+          {
+            "key": "130019",
+            "val": "Kajola"
+          },
+          {
+            "key": "130020",
+            "val": "Lagelu"
+          },
+          {
+            "key": "130021",
+            "val": "Ogbomosho North"
+          },
+          {
+            "key": "130022",
+            "val": "Ogbomosho South"
+          },
+          {
+            "key": "130023",
+            "val": "Ogo Oluwa"
+          },
+          {
+            "key": "130024",
+            "val": "Olorunsogo"
+          },
+          {
+            "key": "130025",
+            "val": "Oluyole"
+          },
+          {
+            "key": "130026",
+            "val": "Ona Ara"
+          },
+          {
+            "key": "130027",
+            "val": "Orelope"
+          },
+          {
+            "key": "130028",
+            "val": "Ori Ire"
+          },
+          {
+            "key": "130029",
+            "val": "Oyo East"
+          },
+          {
+            "key": "130030",
+            "val": "Oyo West"
+          },
+          {
+            "key": "130031",
+            "val": "Saki East"
+          },
+          {
+            "key": "130032",
+            "val": "Saki West"
+          },
+          {
+            "key": "130033",
+            "val": "Surulere"
+          }
+        ],
+        "131": [
+          {
+            "key": "131001",
+            "val": "Barkin Ladi"
+          },
+          {
+            "key": "131002",
+            "val": "Bassa"
+          },
+          {
+            "key": "131003",
+            "val": "Bokkos"
+          },
+          {
+            "key": "131004",
+            "val": "Jos East"
+          },
+          {
+            "key": "131005",
+            "val": "Jos North"
+          },
+          {
+            "key": "131006",
+            "val": "Jos South"
+          },
+          {
+            "key": "131007",
+            "val": "Kanam"
+          },
+          {
+            "key": "131008",
+            "val": "Kanke"
+          },
+          {
+            "key": "131009",
+            "val": "Langtang North"
+          },
+          {
+            "key": "131010",
+            "val": "Langtang South"
+          },
+          {
+            "key": "131011",
+            "val": "Mangu"
+          },
+          {
+            "key": "131012",
+            "val": "Mikang"
+          },
+          {
+            "key": "131013",
+            "val": "Pankshin"
+          },
+          {
+            "key": "131014",
+            "val": "Qua'an Pan"
+          },
+          {
+            "key": "131015",
+            "val": "Riyom"
+          },
+          {
+            "key": "131016",
+            "val": "Shendam"
+          },
+          {
+            "key": "131017",
+            "val": "Wase"
+          }
+        ],
+        "110": [
+          {
+            "key": "110001",
+            "val": "Abakaliki"
+          },
+          {
+            "key": "110002",
+            "val": "Afikpo North"
+          },
+          {
+            "key": "110003",
+            "val": "Afikpo South (Edda)"
+          },
+          {
+            "key": "110004",
+            "val": "Ebonyi"
+          },
+          {
+            "key": "110005",
+            "val": "Ezza North"
+          },
+          {
+            "key": "110006",
+            "val": "Ezza South"
+          },
+          {
+            "key": "110007",
+            "val": "Ikwo"
+          },
+          {
+            "key": "110008",
+            "val": "Ishielu"
+          },
+          {
+            "key": "110009",
+            "val": "Ivo"
+          },
+          {
+            "key": "110010",
+            "val": "Izzi"
+          },
+          {
+            "key": "110011",
+            "val": "Ohaozara"
+          },
+          {
+            "key": "110012",
+            "val": "Ohaukwu"
+          },
+          {
+            "key": "110013",
+            "val": "Onicha"
+          }
+        ],
+        "132": [
+          {
+            "key": "132001",
+            "val": "Abua/Odual"
+          },
+          {
+            "key": "132002",
+            "val": "Ahoada East"
+          },
+          {
+            "key": "132003",
+            "val": "Ahoada West"
+          },
+          {
+            "key": "132004",
+            "val": "Akuku-Toru"
+          },
+          {
+            "key": "132005",
+            "val": "Andoni"
+          },
+          {
+            "key": "132006",
+            "val": "Asari-Toru"
+          },
+          {
+            "key": "132007",
+            "val": "Bonny"
+          },
+          {
+            "key": "132008",
+            "val": "Degema"
+          },
+          {
+            "key": "132009",
+            "val": "Eleme"
+          },
+          {
+            "key": "132010",
+            "val": "Emuoha"
+          },
+          {
+            "key": "132011",
+            "val": "Etche"
+          },
+          {
+            "key": "132012",
+            "val": "Gokana"
+          },
+          {
+            "key": "132013",
+            "val": "Ikwerre"
+          },
+          {
+            "key": "132014",
+            "val": "Khana"
+          },
+          {
+            "key": "132015",
+            "val": "Obio/Akpor"
+          },
+          {
+            "key": "132016",
+            "val": "Obio/Akpor"
+          },
+          {
+            "key": "132017",
+            "val": "Ogba/Egbema/Ndoni"
+          },
+          {
+            "key": "132018",
+            "val": "Ogu/Bolo"
+          },
+          {
+            "key": "132019",
+            "val": "Okrika"
+          },
+          {
+            "key": "132020",
+            "val": "Omuma"
+          },
+          {
+            "key": "132021",
+            "val": "Opobo/Nkoro"
+          },
+          {
+            "key": "132022",
+            "val": "Oyigbo"
+          },
+          {
+            "key": "132023",
+            "val": "Port Harcourt"
+          },
+          {
+            "key": "132024",
+            "val": "Tai"
+          }
+        ],
+        "111": [
+          {
+            "key": "111001",
+            "val": "Akoko-Edo"
+          },
+          {
+            "key": "111002",
+            "val": "Egor"
+          },
+          {
+            "key": "111003",
+            "val": "Esan Central"
+          },
+          {
+            "key": "111004",
+            "val": "Esan North-East"
+          },
+          {
+            "key": "111005",
+            "val": "Esan South-East"
+          },
+          {
+            "key": "111006",
+            "val": "Esan West"
+          },
+          {
+            "key": "111007",
+            "val": "Etsako Central"
+          },
+          {
+            "key": "111008",
+            "val": "Etsako East"
+          },
+          {
+            "key": "111009",
+            "val": "Etsako West"
+          },
+          {
+            "key": "111010",
+            "val": "Igueben"
+          },
+          {
+            "key": "111011",
+            "val": "Ikpoba Okha"
+          },
+          {
+            "key": "111012",
+            "val": "Oredo"
+          },
+          {
+            "key": "111013",
+            "val": "Orhionmwon"
+          },
+          {
+            "key": "111014",
+            "val": "Ovia North-East"
+          },
+          {
+            "key": "111015",
+            "val": "Ovia South-West"
+          },
+          {
+            "key": "111016",
+            "val": "Owan East"
+          },
+          {
+            "key": "111017",
+            "val": "Owan West"
+          },
+          {
+            "key": "111018",
+            "val": "Uhunmwonde"
+          }
+        ],
+        "133": [
+          {
+            "key": "133001",
+            "val": "Binji"
+          },
+          {
+            "key": "133002",
+            "val": "Bodinga"
+          },
+          {
+            "key": "133003",
+            "val": "Dange Shuni"
+          },
+          {
+            "key": "133004",
+            "val": "Gada"
+          },
+          {
+            "key": "133005",
+            "val": "Goronyo"
+          },
+          {
+            "key": "133006",
+            "val": "Gudu"
+          },
+          {
+            "key": "133007",
+            "val": "Gwadabawa"
+          },
+          {
+            "key": "133008",
+            "val": "Illela"
+          },
+          {
+            "key": "133009",
+            "val": "Isa"
+          },
+          {
+            "key": "133010",
+            "val": "Kebbe"
+          },
+          {
+            "key": "133011",
+            "val": "Kware"
+          },
+          {
+            "key": "133012",
+            "val": "Rabah"
+          },
+          {
+            "key": "133013",
+            "val": "Sabon Birni"
+          },
+          {
+            "key": "133014",
+            "val": "Shagari"
+          },
+          {
+            "key": "133015",
+            "val": "Silame"
+          },
+          {
+            "key": "133016",
+            "val": "Sokoto North"
+          },
+          {
+            "key": "133017",
+            "val": "Sokoto South"
+          },
+          {
+            "key": "133018",
+            "val": "Tambuwal"
+          },
+          {
+            "key": "133019",
+            "val": "Tangaza"
+          },
+          {
+            "key": "133020",
+            "val": "Tureta"
+          },
+          {
+            "key": "133021",
+            "val": "Wamako"
+          },
+          {
+            "key": "133022",
+            "val": "Wurno"
+          },
+          {
+            "key": "133023",
+            "val": "Yabo"
+          }
+        ],
+        "112": [
+          {
+            "key": "112001",
+            "val": "Ado Ekiti"
+          },
+          {
+            "key": "112002",
+            "val": "Efon"
+          },
+          {
+            "key": "112003",
+            "val": "Ekiti East"
+          },
+          {
+            "key": "112004",
+            "val": "Ekiti South-West"
+          },
+          {
+            "key": "112005",
+            "val": "Ekiti West"
+          },
+          {
+            "key": "112006",
+            "val": "Emure"
+          },
+          {
+            "key": "112007",
+            "val": "Gbonyin"
+          },
+          {
+            "key": "112008",
+            "val": "Ido Osi"
+          },
+          {
+            "key": "112009",
+            "val": "Ijero"
+          },
+          {
+            "key": "112010",
+            "val": "Ikere"
+          },
+          {
+            "key": "112011",
+            "val": "Ikole"
+          },
+          {
+            "key": "112012",
+            "val": "Ilejemeje"
+          },
+          {
+            "key": "112013",
+            "val": "Irepodun/Ifelodun"
+          },
+          {
+            "key": "112014",
+            "val": "Ise/Orun"
+          },
+          {
+            "key": "112015",
+            "val": "Moba"
+          },
+          {
+            "key": "112016",
+            "val": "Oye"
+          }
+        ],
+        "134": [
+          {
+            "key": "134001",
+            "val": "Ardo Kola"
+          },
+          {
+            "key": "134002",
+            "val": "Bali"
+          },
+          {
+            "key": "134003",
+            "val": "Donga"
+          },
+          {
+            "key": "134004",
+            "val": "Gashaka"
+          },
+          {
+            "key": "134005",
+            "val": "Gassol"
+          },
+          {
+            "key": "134006",
+            "val": "Ibi"
+          },
+          {
+            "key": "134007",
+            "val": "Jalingo"
+          },
+          {
+            "key": "134008",
+            "val": "Karim Lamido"
+          },
+          {
+            "key": "134009",
+            "val": "Kumi"
+          },
+          {
+            "key": "134010",
+            "val": "Lau"
+          },
+          {
+            "key": "134011",
+            "val": "Sardauna"
+          },
+          {
+            "key": "134012",
+            "val": "Takum"
+          },
+          {
+            "key": "134013",
+            "val": "Ussa"
+          },
+          {
+            "key": "134014",
+            "val": "Wukari"
+          },
+          {
+            "key": "134015",
+            "val": "Yorro"
+          },
+          {
+            "key": "134016",
+            "val": "Zing"
+          }
+        ],
+        "113": [
+          {
+            "key": "113001",
+            "val": "Aninri"
+          },
+          {
+            "key": "113002",
+            "val": "Awgu"
+          },
+          {
+            "key": "113003",
+            "val": "Enugu East"
+          },
+          {
+            "key": "113004",
+            "val": "Enugu North"
+          },
+          {
+            "key": "113005",
+            "val": "Enugu South"
+          },
+          {
+            "key": "113006",
+            "val": "Ezeagu"
+          },
+          {
+            "key": "113007",
+            "val": "Igbo Etiti"
+          },
+          {
+            "key": "113008",
+            "val": "Igbo Eze North"
+          },
+          {
+            "key": "113009",
+            "val": "Igbo Eze South"
+          },
+          {
+            "key": "113010",
+            "val": "Isi Uzo"
+          },
+          {
+            "key": "113011",
+            "val": "Nkanu East"
+          },
+          {
+            "key": "113012",
+            "val": "Nkanu West"
+          },
+          {
+            "key": "113013",
+            "val": "Nsukka"
+          },
+          {
+            "key": "113014",
+            "val": "Oji River"
+          },
+          {
+            "key": "113015",
+            "val": "Udenu"
+          },
+          {
+            "key": "113016",
+            "val": "Udi"
+          },
+          {
+            "key": "113017",
+            "val": "Uzo-Uwani"
+          }
+        ],
+        "135": [
+          {
+            "key": "135001",
+            "val": "Bade"
+          },
+          {
+            "key": "135002",
+            "val": "Bursari"
+          },
+          {
+            "key": "135003",
+            "val": "Damaturu"
+          },
+          {
+            "key": "135004",
+            "val": "Fika"
+          },
+          {
+            "key": "135005",
+            "val": "Fune"
+          },
+          {
+            "key": "135006",
+            "val": "Geidam"
+          },
+          {
+            "key": "135007",
+            "val": "Gujba"
+          },
+          {
+            "key": "135008",
+            "val": "Gulani"
+          },
+          {
+            "key": "135009",
+            "val": "Jakusko"
+          },
+          {
+            "key": "135010",
+            "val": "Karasuwa"
+          },
+          {
+            "key": "135011",
+            "val": "Machina"
+          },
+          {
+            "key": "135012",
+            "val": "Nangere"
+          },
+          {
+            "key": "135013",
+            "val": "Nguru"
+          },
+          {
+            "key": "135014",
+            "val": "Potiskum"
+          },
+          {
+            "key": "135015",
+            "val": "Tarmuwa"
+          },
+          {
+            "key": "135016",
+            "val": "Yunusari"
+          },
+          {
+            "key": "135017",
+            "val": "Yusufari"
+          }
+        ],
+        "114": [
+          {
+            "key": "114001",
+            "val": "Abaji"
+          },
+          {
+            "key": "114002",
+            "val": "Bwari"
+          },
+          {
+            "key": "114003",
+            "val": "Gwagwalada"
+          },
+          {
+            "key": "114004",
+            "val": "Kuje"
+          },
+          {
+            "key": "114005",
+            "val": "Kwali"
+          },
+          {
+            "key": "114006",
+            "val": "Municipal Area Council"
+          }
+        ],
+        "136": [
+          {
+            "key": "136001",
+            "val": "Anka"
+          },
+          {
+            "key": "136002",
+            "val": "Bakura"
+          },
+          {
+            "key": "136003",
+            "val": "Birnin Magaji/Kiyaw"
+          },
+          {
+            "key": "136004",
+            "val": "Bukkuyum"
+          },
+          {
+            "key": "136005",
+            "val": "Bungudu"
+          },
+          {
+            "key": "136006",
+            "val": "Chafe"
+          },
+          {
+            "key": "136007",
+            "val": "Gummi"
+          },
+          {
+            "key": "136008",
+            "val": "Gusau"
+          },
+          {
+            "key": "136009",
+            "val": "Kaura Namoda"
+          },
+          {
+            "key": "136010",
+            "val": "Maradun"
+          },
+          {
+            "key": "136011",
+            "val": "Maru"
+          },
+          {
+            "key": "136012",
+            "val": "Shinkafi"
+          },
+          {
+            "key": "136013",
+            "val": "Talata Mafara"
+          },
+          {
+            "key": "136014",
+            "val": "Zurmi"
+          }
+        ],
+        "115": [
+          {
+            "key": "115001",
+            "val": "Akko"
+          },
+          {
+            "key": "115002",
+            "val": "Balanga"
+          },
+          {
+            "key": "115003",
+            "val": "Billiri"
+          },
+          {
+            "key": "115004",
+            "val": "Dukku"
+          },
+          {
+            "key": "115005",
+            "val": "Funakaye"
+          },
+          {
+            "key": "115006",
+            "val": "Gombe"
+          },
+          {
+            "key": "115007",
+            "val": "Kaltungo"
+          },
+          {
+            "key": "115008",
+            "val": "Kwami"
+          },
+          {
+            "key": "115009",
+            "val": "Nafada"
+          },
+          {
+            "key": "115010",
+            "val": "Shongom"
+          },
+          {
+            "key": "115011",
+            "val": "Yamaltu/Deba"
+          }
+        ],
+        "116": [
+          {
+            "key": "116001",
+            "val": "Aboh Mbaise"
+          },
+          {
+            "key": "116002",
+            "val": "Ahiazu Mbaise"
+          },
+          {
+            "key": "116003",
+            "val": "Ehime Mbano"
+          },
+          {
+            "key": "116004",
+            "val": "Ezinihitte"
+          },
+          {
+            "key": "116005",
+            "val": "Ideato North"
+          },
+          {
+            "key": "116006",
+            "val": "Ideato South"
+          },
+          {
+            "key": "116007",
+            "val": "Ihitte/Uboma"
+          },
+          {
+            "key": "116008",
+            "val": "Ikeduru"
+          },
+          {
+            "key": "116009",
+            "val": "Isiala Mbano"
+          },
+          {
+            "key": "116010",
+            "val": "Isu"
+          },
+          {
+            "key": "116011",
+            "val": "Mbaitoli"
+          },
+          {
+            "key": "116012",
+            "val": "Ngor Okpala"
+          },
+          {
+            "key": "116013",
+            "val": "Njaba"
+          },
+          {
+            "key": "116014",
+            "val": "Nkwerre"
+          },
+          {
+            "key": "116015",
+            "val": "Nwangele"
+          },
+          {
+            "key": "116016",
+            "val": "Obowo"
+          },
+          {
+            "key": "116017",
+            "val": "Obowo"
+          },
+          {
+            "key": "116018",
+            "val": "Oguta"
+          },
+          {
+            "key": "116019",
+            "val": "Ohaji/Egbema"
+          },
+          {
+            "key": "116020",
+            "val": "Okigwe"
+          },
+          {
+            "key": "116021",
+            "val": "Orlu"
+          },
+          {
+            "key": "116022",
+            "val": "Orsu"
+          },
+          {
+            "key": "116023",
+            "val": "Oru East"
+          },
+          {
+            "key": "116024",
+            "val": "Oru West"
+          },
+          {
+            "key": "116025",
+            "val": "Owerri Municipal"
+          },
+          {
+            "key": "116026",
+            "val": "Owerri North"
+          },
+          {
+            "key": "116027",
+            "val": "Owerri West"
+          },
+          {
+            "key": "116028",
+            "val": "Unuimo"
+          }
+        ],
+        "117": [
+          {
+            "key": "117001",
+            "val": "Auyo"
+          },
+          {
+            "key": "117002",
+            "val": "Babura"
+          },
+          {
+            "key": "117003",
+            "val": "Biriniwa"
+          },
+          {
+            "key": "117004",
+            "val": "Birnin Kudu"
+          },
+          {
+            "key": "117005",
+            "val": "Buji"
+          },
+          {
+            "key": "117006",
+            "val": "Dutse"
+          },
+          {
+            "key": "117007",
+            "val": "Gagarawa"
+          },
+          {
+            "key": "117008",
+            "val": "Garki"
+          },
+          {
+            "key": "117009",
+            "val": "Gumel"
+          },
+          {
+            "key": "117010",
+            "val": "Guri"
+          },
+          {
+            "key": "117011",
+            "val": "Gwaram"
+          },
+          {
+            "key": "117012",
+            "val": "Gwiwa"
+          },
+          {
+            "key": "117013",
+            "val": "Hadejia"
+          },
+          {
+            "key": "117014",
+            "val": "Jahun"
+          },
+          {
+            "key": "117015",
+            "val": "Kafin Hausa"
+          },
+          {
+            "key": "117016",
+            "val": "Kaugama"
+          },
+          {
+            "key": "117017",
+            "val": "Kazaure"
+          },
+          {
+            "key": "117018",
+            "val": "Kiri Kasama"
+          },
+          {
+            "key": "117019",
+            "val": "Kiyawa"
+          },
+          {
+            "key": "117020",
+            "val": "Maigatari"
+          },
+          {
+            "key": "117021",
+            "val": "Malam Madori"
+          },
+          {
+            "key": "117022",
+            "val": "Miga"
+          },
+          {
+            "key": "117023",
+            "val": "Ringim"
+          },
+          {
+            "key": "117024",
+            "val": "Roni"
+          },
+          {
+            "key": "117025",
+            "val": "Sule Tankarkar"
+          },
+          {
+            "key": "117026",
+            "val": "Taura"
+          },
+          {
+            "key": "117027",
+            "val": "Yankwashi"
+          }
+        ],
+        "118": [
+          {
+            "key": "118001",
+            "val": "Birnin Gwari"
+          },
+          {
+            "key": "118002",
+            "val": "Chikun"
+          },
+          {
+            "key": "118003",
+            "val": "Giwa"
+          },
+          {
+            "key": "118004",
+            "val": "Igabi"
+          },
+          {
+            "key": "118005",
+            "val": "Ikara"
+          },
+          {
+            "key": "118006",
+            "val": "Jaba"
+          },
+          {
+            "key": "118007",
+            "val": "Jema'a"
+          },
+          {
+            "key": "118008",
+            "val": "Kachia"
+          },
+          {
+            "key": "118009",
+            "val": "Kaduna North"
+          },
+          {
+            "key": "118010",
+            "val": "Kaduna South"
+          },
+          {
+            "key": "118011",
+            "val": "Kagarko"
+          },
+          {
+            "key": "118012",
+            "val": "Kajuru"
+          },
+          {
+            "key": "118013",
+            "val": "Kaura"
+          },
+          {
+            "key": "118014",
+            "val": "Kauru"
+          },
+          {
+            "key": "118015",
+            "val": "Kubau"
+          },
+          {
+            "key": "118016",
+            "val": "Kudan"
+          },
+          {
+            "key": "118017",
+            "val": "Lere"
+          },
+          {
+            "key": "118018",
+            "val": "Makarfi"
+          },
+          {
+            "key": "118019",
+            "val": "Sabon Gari"
+          },
+          {
+            "key": "118020",
+            "val": "Sanga"
+          },
+          {
+            "key": "118021",
+            "val": "Soba"
+          },
+          {
+            "key": "118022",
+            "val": "Zangon Kataf"
+          },
+          {
+            "key": "118023",
+            "val": "Zaria"
+          }
+        ],
+        "119": [
+          {
+            "key": "119001",
+            "val": "Ajingi"
+          },
+          {
+            "key": "119002",
+            "val": "Albasu"
+          },
+          {
+            "key": "119003",
+            "val": "Bagwai"
+          },
+          {
+            "key": "119004",
+            "val": "Bebeji"
+          },
+          {
+            "key": "119005",
+            "val": "Bichi"
+          },
+          {
+            "key": "119006",
+            "val": "Bunkure"
+          },
+          {
+            "key": "119007",
+            "val": "Dala"
+          },
+          {
+            "key": "119008",
+            "val": "Dambatta"
+          },
+          {
+            "key": "119009",
+            "val": "Dawakin Kudu"
+          },
+          {
+            "key": "119010",
+            "val": "Dawakin Tofa"
+          },
+          {
+            "key": "119011",
+            "val": "Doguwa"
+          },
+          {
+            "key": "119012",
+            "val": "Fagge"
+          },
+          {
+            "key": "119013",
+            "val": "Gabasawa"
+          },
+          {
+            "key": "119014",
+            "val": "Garko"
+          },
+          {
+            "key": "119015",
+            "val": "Garun Mallam"
+          },
+          {
+            "key": "119016",
+            "val": "Gaya"
+          },
+          {
+            "key": "119017",
+            "val": "Gezawa"
+          },
+          {
+            "key": "119018",
+            "val": "Gwale"
+          },
+          {
+            "key": "119019",
+            "val": "Gwarzo"
+          },
+          {
+            "key": "119020",
+            "val": "Kabo"
+          },
+          {
+            "key": "119021",
+            "val": "Kano Municipal"
+          },
+          {
+            "key": "119022",
+            "val": "Karaye"
+          },
+          {
+            "key": "119023",
+            "val": "Kibiya"
+          },
+          {
+            "key": "119024",
+            "val": "Kiru"
+          },
+          {
+            "key": "119025",
+            "val": "Kumbotso"
+          },
+          {
+            "key": "119026",
+            "val": "Kunchi"
+          },
+          {
+            "key": "119027",
+            "val": "Kura"
+          },
+          {
+            "key": "119028",
+            "val": "Madobi"
+          },
+          {
+            "key": "119029",
+            "val": "Makoda"
+          },
+          {
+            "key": "119030",
+            "val": "Minjibir"
+          },
+          {
+            "key": "119031",
+            "val": "Nasarawa"
+          },
+          {
+            "key": "119032",
+            "val": "Rano"
+          },
+          {
+            "key": "119033",
+            "val": "Rimin Gado"
+          },
+          {
+            "key": "119034",
+            "val": "Rogo"
+          },
+          {
+            "key": "119035",
+            "val": "Shanono"
+          },
+          {
+            "key": "119036",
+            "val": "Sumaila"
+          },
+          {
+            "key": "119037",
+            "val": "Takai"
+          },
+          {
+            "key": "119038",
+            "val": "Tarauni"
+          },
+          {
+            "key": "119039",
+            "val": "Tofa"
+          },
+          {
+            "key": "119040",
+            "val": "Tsanyawa"
+          },
+          {
+            "key": "119041",
+            "val": "Tudun Wada"
+          },
+          {
+            "key": "119042",
+            "val": "Ungogo"
+          },
+          {
+            "key": "119043",
+            "val": "Warawa"
+          },
+          {
+            "key": "119044",
+            "val": "Wudil"
+          }
+        ],
+        "120": [
+          {
+            "key": "120001",
+            "val": "Bakori"
+          },
+          {
+            "key": "120002",
+            "val": "Batagarawa"
+          },
+          {
+            "key": "120003",
+            "val": "Batsari"
+          },
+          {
+            "key": "120004",
+            "val": "Baure"
+          },
+          {
+            "key": "120005",
+            "val": "Bindawa"
+          },
+          {
+            "key": "120006",
+            "val": "Charanchi"
+          },
+          {
+            "key": "120007",
+            "val": "Dan Musa"
+          },
+          {
+            "key": "120008",
+            "val": "Dandume"
+          },
+          {
+            "key": "120009",
+            "val": "Danja"
+          },
+          {
+            "key": "120010",
+            "val": "Daura"
+          },
+          {
+            "key": "120011",
+            "val": "Dutsi"
+          },
+          {
+            "key": "120012",
+            "val": "Dutsin Ma"
+          },
+          {
+            "key": "120013",
+            "val": "Faskari"
+          },
+          {
+            "key": "120014",
+            "val": "Funtua"
+          },
+          {
+            "key": "120015",
+            "val": "Ingawa"
+          },
+          {
+            "key": "120016",
+            "val": "Jibia"
+          },
+          {
+            "key": "120017",
+            "val": "Kafur"
+          },
+          {
+            "key": "120018",
+            "val": "Kaita"
+          },
+          {
+            "key": "120019",
+            "val": "Kankara"
+          },
+          {
+            "key": "120020",
+            "val": "Kankia"
+          },
+          {
+            "key": "120021",
+            "val": "Katsina"
+          },
+          {
+            "key": "120022",
+            "val": "Kurfi"
+          },
+          {
+            "key": "120023",
+            "val": "Kusada"
+          },
+          {
+            "key": "120024",
+            "val": "Mai'Adua"
+          },
+          {
+            "key": "120025",
+            "val": "Malumfashi"
+          },
+          {
+            "key": "120026",
+            "val": "Mani"
+          },
+          {
+            "key": "120027",
+            "val": "Mashi"
+          },
+          {
+            "key": "120028",
+            "val": "Matazu"
+          },
+          {
+            "key": "120029",
+            "val": "Musawa"
+          },
+          {
+            "key": "120030",
+            "val": "Rimi"
+          },
+          {
+            "key": "120031",
+            "val": "Sabuwa"
+          },
+          {
+            "key": "120032",
+            "val": "Safana"
+          },
+          {
+            "key": "120033",
+            "val": "Sandamu"
+          },
+          {
+            "key": "120034",
+            "val": "Zango"
+          }
+        ],
+        "121": [
+          {
+            "key": "121001",
+            "val": "Aleiro"
+          },
+          {
+            "key": "121002",
+            "val": "Arewa Dandi"
+          },
+          {
+            "key": "121003",
+            "val": "Argungu"
+          },
+          {
+            "key": "121004",
+            "val": "Augie"
+          },
+          {
+            "key": "121005",
+            "val": "Bagudo"
+          },
+          {
+            "key": "121006",
+            "val": "Birnin Kebbi"
+          },
+          {
+            "key": "121007",
+            "val": "Bunza"
+          },
+          {
+            "key": "121008",
+            "val": "Dandi"
+          },
+          {
+            "key": "121009",
+            "val": "Fakai"
+          },
+          {
+            "key": "121010",
+            "val": "Gwandu"
+          },
+          {
+            "key": "121011",
+            "val": "Jega"
+          },
+          {
+            "key": "121012",
+            "val": "Kalgo"
+          },
+          {
+            "key": "121013",
+            "val": "Koko/Besse"
+          },
+          {
+            "key": "121014",
+            "val": "Maiyama"
+          },
+          {
+            "key": "121015",
+            "val": "Ngaski"
+          },
+          {
+            "key": "121016",
+            "val": "Sakaba"
+          },
+          {
+            "key": "121017",
+            "val": "Shanga"
+          },
+          {
+            "key": "121018",
+            "val": "Suru"
+          },
+          {
+            "key": "121019",
+            "val": "Wasagu/Danko"
+          },
+          {
+            "key": "121020",
+            "val": "Yauri"
+          },
+          {
+            "key": "121021",
+            "val": "Zuru"
+          }
+        ],
+        "100": [
+          {
+            "key": "100001",
+            "val": "Aba North"
+          },
+          {
+            "key": "100002",
+            "val": "Aba South"
+          },
+          {
+            "key": "100003",
+            "val": "Arochukwu"
+          },
+          {
+            "key": "100004",
+            "val": "Bende"
+          },
+          {
+            "key": "100005",
+            "val": "Ikwuano"
+          },
+          {
+            "key": "100006",
+            "val": "Isiala Ngwa North"
+          },
+          {
+            "key": "100007",
+            "val": "Isiala Ngwa South"
+          },
+          {
+            "key": "100008",
+            "val": "Isuikwuato"
+          },
+          {
+            "key": "100009",
+            "val": "Obi Ngwa"
+          },
+          {
+            "key": "100010",
+            "val": "Obi Ngwa"
+          },
+          {
+            "key": "100011",
+            "val": "Ohafia"
+          },
+          {
+            "key": "100012",
+            "val": "Osisioma"
+          },
+          {
+            "key": "100013",
+            "val": "Ugwunagbo"
+          },
+          {
+            "key": "100014",
+            "val": "Ukwa East"
+          },
+          {
+            "key": "100015",
+            "val": "Ukwa West"
+          },
+          {
+            "key": "100016",
+            "val": "Umu Nneochi"
+          },
+          {
+            "key": "100017",
+            "val": "Umuahia North"
+          },
+          {
+            "key": "100018",
+            "val": "Umuahia South"
+          }
+        ],
+        "122": [
+          {
+            "key": "122001",
+            "val": "Adavi"
+          },
+          {
+            "key": "122002",
+            "val": "Ajaokuta"
+          },
+          {
+            "key": "122003",
+            "val": "Ankpa"
+          },
+          {
+            "key": "122004",
+            "val": "Bassa"
+          },
+          {
+            "key": "122005",
+            "val": "Dekina"
+          },
+          {
+            "key": "122006",
+            "val": "Ibaji"
+          },
+          {
+            "key": "122007",
+            "val": "Idah"
+          },
+          {
+            "key": "122008",
+            "val": "Igalamela Odolu"
+          },
+          {
+            "key": "122009",
+            "val": "Ijumu"
+          },
+          {
+            "key": "122010",
+            "val": "Kabba/Bunu"
+          },
+          {
+            "key": "122011",
+            "val": "Kogi"
+          },
+          {
+            "key": "122012",
+            "val": "Lokoja"
+          },
+          {
+            "key": "122013",
+            "val": "Mopa Muro"
+          },
+          {
+            "key": "122014",
+            "val": "Ofu"
+          },
+          {
+            "key": "122015",
+            "val": "Ogori/Magongo"
+          },
+          {
+            "key": "122016",
+            "val": "Okehi"
+          },
+          {
+            "key": "122017",
+            "val": "Okene"
+          },
+          {
+            "key": "122018",
+            "val": "Olamaboro"
+          },
+          {
+            "key": "122019",
+            "val": "Omala"
+          },
+          {
+            "key": "122020",
+            "val": "Yagba East"
+          },
+          {
+            "key": "122021",
+            "val": "Yagba West"
+          }
+        ],
+        "101": [
+          {
+            "key": "101001",
+            "val": "Demsa"
+          },
+          {
+            "key": "101002",
+            "val": "Fufure"
+          },
+          {
+            "key": "101003",
+            "val": "Ganye"
+          },
+          {
+            "key": "101004",
+            "val": "Gayuk"
+          },
+          {
+            "key": "101005",
+            "val": "Gombi"
+          },
+          {
+            "key": "101006",
+            "val": "Grie"
+          },
+          {
+            "key": "101007",
+            "val": "Hong"
+          },
+          {
+            "key": "101008",
+            "val": "Jada"
+          },
+          {
+            "key": "101009",
+            "val": "Lamurde"
+          },
+          {
+            "key": "101010",
+            "val": "Madagali"
+          },
+          {
+            "key": "101011",
+            "val": "Maiha"
+          },
+          {
+            "key": "101012",
+            "val": "Mayo Belwa"
+          },
+          {
+            "key": "101013",
+            "val": "Michika"
+          },
+          {
+            "key": "101014",
+            "val": "Mubi North"
+          },
+          {
+            "key": "101015",
+            "val": "Mubi South"
+          },
+          {
+            "key": "101016",
+            "val": "Numan"
+          },
+          {
+            "key": "101017",
+            "val": "Shelleng"
+          },
+          {
+            "key": "101018",
+            "val": "Song"
+          },
+          {
+            "key": "101019",
+            "val": "Toungo"
+          },
+          {
+            "key": "101020",
+            "val": "Yola North"
+          },
+          {
+            "key": "101021",
+            "val": "Yola South"
+          }
+        ],
+        "123": [
+          {
+            "key": "123001",
+            "val": "Asa"
+          },
+          {
+            "key": "123002",
+            "val": "Baruten"
+          },
+          {
+            "key": "123003",
+            "val": "Edu"
+          },
+          {
+            "key": "123004",
+            "val": "Ekiti"
+          },
+          {
+            "key": "123005",
+            "val": "Ifelodun"
+          },
+          {
+            "key": "123006",
+            "val": "Ilorin East"
+          },
+          {
+            "key": "123007",
+            "val": "Ilorin South"
+          },
+          {
+            "key": "123008",
+            "val": "Ilorin West"
+          },
+          {
+            "key": "123009",
+            "val": "Irepodun"
+          },
+          {
+            "key": "123010",
+            "val": "Isin"
+          },
+          {
+            "key": "123011",
+            "val": "Kaiama"
+          },
+          {
+            "key": "123012",
+            "val": "Moro"
+          },
+          {
+            "key": "123013",
+            "val": "Offa"
+          },
+          {
+            "key": "123014",
+            "val": "Oke Ero"
+          },
+          {
+            "key": "123015",
+            "val": "Oyun"
+          },
+          {
+            "key": "123016",
+            "val": "Pategi"
+          }
+        ],
+        "102": [
+          {
+            "key": "102001",
+            "val": "Abak"
+          },
+          {
+            "key": "102002",
+            "val": "Eastern Obolo"
+          },
+          {
+            "key": "102003",
+            "val": "Eket"
+          },
+          {
+            "key": "102004",
+            "val": "Esit Eket"
+          },
+          {
+            "key": "102005",
+            "val": "Essien Udim"
+          },
+          {
+            "key": "102006",
+            "val": "Etim Ekpo"
+          },
+          {
+            "key": "102007",
+            "val": "Etinan"
+          },
+          {
+            "key": "102008",
+            "val": "Ibeno"
+          },
+          {
+            "key": "102009",
+            "val": "Ibesikpo Asutan"
+          },
+          {
+            "key": "102010",
+            "val": "Ibiono-Ibom"
+          },
+          {
+            "key": "102011",
+            "val": "Ika"
+          },
+          {
+            "key": "102012",
+            "val": "Ikono"
+          },
+          {
+            "key": "102013",
+            "val": "Ikot Abasi"
+          },
+          {
+            "key": "102014",
+            "val": "Ikot Ekpene"
+          },
+          {
+            "key": "102015",
+            "val": "Ini"
+          },
+          {
+            "key": "102016",
+            "val": "Itu"
+          },
+          {
+            "key": "102017",
+            "val": "Mbo"
+          },
+          {
+            "key": "102018",
+            "val": "Mkpat-Enin"
+          },
+          {
+            "key": "102019",
+            "val": "Nsit-Atai"
+          },
+          {
+            "key": "102020",
+            "val": "Nsit-Ibom"
+          },
+          {
+            "key": "102021",
+            "val": "Nsit-Ubium"
+          },
+          {
+            "key": "102022",
+            "val": "Obot Akara"
+          },
+          {
+            "key": "102023",
+            "val": "Obot Akara"
+          },
+          {
+            "key": "102024",
+            "val": "Okobo"
+          },
+          {
+            "key": "102025",
+            "val": "Onna"
+          },
+          {
+            "key": "102026",
+            "val": "Oron"
+          },
+          {
+            "key": "102027",
+            "val": "Oruk Anam"
+          },
+          {
+            "key": "102028",
+            "val": "Udung-Uko"
+          },
+          {
+            "key": "102029",
+            "val": "Ukanafun"
+          },
+          {
+            "key": "102030",
+            "val": "Uruan"
+          },
+          {
+            "key": "102031",
+            "val": "Urue-Offong/Oruko"
+          },
+          {
+            "key": "102032",
+            "val": "Uyo"
+          }
+        ],
+        "124": [
+          {
+            "key": "124001",
+            "val": "Agege"
+          },
+          {
+            "key": "124002",
+            "val": "Ajeromi-Ifelodun"
+          },
+          {
+            "key": "124003",
+            "val": "Alimosho"
+          },
+          {
+            "key": "124004",
+            "val": "Amuwo-Odofin"
+          },
+          {
+            "key": "124005",
+            "val": "Apapa"
+          },
+          {
+            "key": "124006",
+            "val": "Badagry"
+          },
+          {
+            "key": "124007",
+            "val": "Epe"
+          },
+          {
+            "key": "124008",
+            "val": "Eti Osa"
+          },
+          {
+            "key": "124009",
+            "val": "Ibeju-Lekki"
+          },
+          {
+            "key": "124010",
+            "val": "Ifako-Ijaiye"
+          },
+          {
+            "key": "124011",
+            "val": "Ikeja"
+          },
+          {
+            "key": "124012",
+            "val": "Ikorodu"
+          },
+          {
+            "key": "124013",
+            "val": "Kosofe"
+          },
+          {
+            "key": "124014",
+            "val": "Lagos Island"
+          },
+          {
+            "key": "124015",
+            "val": "Lagos Mainland"
+          },
+          {
+            "key": "124016",
+            "val": "Mushin"
+          },
+          {
+            "key": "124017",
+            "val": "Ojo"
+          },
+          {
+            "key": "124018",
+            "val": "Oshodi-Isolo"
+          },
+          {
+            "key": "124019",
+            "val": "Shomolu"
+          },
+          {
+            "key": "124020",
+            "val": "Surulere"
+          }
+        ],
+        "103": [
+          {
+            "key": "103001",
+            "val": "Aguata"
+          },
+          {
+            "key": "103002",
+            "val": "Anambra East"
+          },
+          {
+            "key": "103003",
+            "val": "Anambra West"
+          },
+          {
+            "key": "103004",
+            "val": "Anaocha"
+          },
+          {
+            "key": "103005",
+            "val": "Awka North"
+          },
+          {
+            "key": "103006",
+            "val": "Awka South"
+          },
+          {
+            "key": "103007",
+            "val": "Ayamelum"
+          },
+          {
+            "key": "103008",
+            "val": "Dunukofia"
+          },
+          {
+            "key": "103009",
+            "val": "Ekwusigo"
+          },
+          {
+            "key": "103010",
+            "val": "Idemili North"
+          },
+          {
+            "key": "103011",
+            "val": "Idemili South"
+          },
+          {
+            "key": "103012",
+            "val": "Ihiala"
+          },
+          {
+            "key": "103013",
+            "val": "Njikoka"
+          },
+          {
+            "key": "103014",
+            "val": "Nnewi North"
+          },
+          {
+            "key": "103015",
+            "val": "Nnewi South"
+          },
+          {
+            "key": "103016",
+            "val": "Ogbaru"
+          },
+          {
+            "key": "103017",
+            "val": "Onitsha North"
+          },
+          {
+            "key": "103018",
+            "val": "Onitsha South"
+          },
+          {
+            "key": "103019",
+            "val": "Orumba North"
+          },
+          {
+            "key": "103020",
+            "val": "Orumba South"
+          },
+          {
+            "key": "103021",
+            "val": "Oyi"
+          }
+        ],
+        "125": [
+          {
+            "key": "125001",
+            "val": "Akwanga"
+          },
+          {
+            "key": "125002",
+            "val": "Awe"
+          },
+          {
+            "key": "125003",
+            "val": "Doma"
+          },
+          {
+            "key": "125004",
+            "val": "Karu"
+          },
+          {
+            "key": "125005",
+            "val": "Keana"
+          },
+          {
+            "key": "125006",
+            "val": "Keffi"
+          },
+          {
+            "key": "125007",
+            "val": "Kokona"
+          },
+          {
+            "key": "125008",
+            "val": "Lafia"
+          },
+          {
+            "key": "125009",
+            "val": "Nasarawa"
+          },
+          {
+            "key": "125010",
+            "val": "Nasarawa Egon"
+          },
+          {
+            "key": "125011",
+            "val": "Obi"
+          },
+          {
+            "key": "125012",
+            "val": "Obi"
+          },
+          {
+            "key": "125013",
+            "val": "Toto"
+          },
+          {
+            "key": "125014",
+            "val": "Wamba"
+          }
+        ],
+        "104": [
+          {
+            "key": "104001",
+            "val": "Alkaleri"
+          },
+          {
+            "key": "104002",
+            "val": "Bauchi"
+          },
+          {
+            "key": "104003",
+            "val": "Bogoro"
+          },
+          {
+            "key": "104004",
+            "val": "Damban"
+          },
+          {
+            "key": "104005",
+            "val": "Darazo"
+          },
+          {
+            "key": "104006",
+            "val": "Dass"
+          },
+          {
+            "key": "104007",
+            "val": "Gamawa"
+          },
+          {
+            "key": "104008",
+            "val": "Ganjuwa"
+          },
+          {
+            "key": "104009",
+            "val": "Giade"
+          },
+          {
+            "key": "104010",
+            "val": "Itas/Gadau"
+          },
+          {
+            "key": "104011",
+            "val": "Jama'are"
+          },
+          {
+            "key": "104012",
+            "val": "Katagum"
+          },
+          {
+            "key": "104013",
+            "val": "Kirfi"
+          },
+          {
+            "key": "104014",
+            "val": "Misau"
+          },
+          {
+            "key": "104015",
+            "val": "Ningi"
+          },
+          {
+            "key": "104016",
+            "val": "Shira"
+          },
+          {
+            "key": "104017",
+            "val": "Tafawa Balewa"
+          },
+          {
+            "key": "104018",
+            "val": "Toro"
+          },
+          {
+            "key": "104019",
+            "val": "Warji"
+          },
+          {
+            "key": "104020",
+            "val": "Zaki"
+          }
+        ],
+        "126": [
+          {
+            "key": "126001",
+            "val": "Agaie"
+          },
+          {
+            "key": "126002",
+            "val": "Agwara"
+          },
+          {
+            "key": "126003",
+            "val": "Bida"
+          },
+          {
+            "key": "126004",
+            "val": "Borgu"
+          },
+          {
+            "key": "126005",
+            "val": "Bosso"
+          },
+          {
+            "key": "126006",
+            "val": "Chanchaga"
+          },
+          {
+            "key": "126007",
+            "val": "Edati"
+          },
+          {
+            "key": "126008",
+            "val": "Gbako"
+          },
+          {
+            "key": "126009",
+            "val": "Gurara"
+          },
+          {
+            "key": "126010",
+            "val": "Katcha"
+          },
+          {
+            "key": "126011",
+            "val": "Kontagora"
+          },
+          {
+            "key": "126012",
+            "val": "Lapai"
+          },
+          {
+            "key": "126013",
+            "val": "Lavun"
+          },
+          {
+            "key": "126014",
+            "val": "Magama"
+          },
+          {
+            "key": "126015",
+            "val": "Mariga"
+          },
+          {
+            "key": "126016",
+            "val": "Mashegu"
+          },
+          {
+            "key": "126017",
+            "val": "Mokwa"
+          },
+          {
+            "key": "126018",
+            "val": "Moya"
+          },
+          {
+            "key": "126019",
+            "val": "Paikoro"
+          },
+          {
+            "key": "126020",
+            "val": "Rafi"
+          },
+          {
+            "key": "126021",
+            "val": "Rijau"
+          },
+          {
+            "key": "126022",
+            "val": "Shiroro"
+          },
+          {
+            "key": "126023",
+            "val": "Suleja"
+          },
+          {
+            "key": "126024",
+            "val": "Tafa"
+          },
+          {
+            "key": "126025",
+            "val": "Wushishi"
+          }
+        ],
+        "105": [
+          {
+            "key": "105001",
+            "val": "Brass"
+          },
+          {
+            "key": "105002",
+            "val": "Ekeremor"
+          },
+          {
+            "key": "105003",
+            "val": "Kolokuma/Opokuma"
+          },
+          {
+            "key": "105004",
+            "val": "Nembe"
+          },
+          {
+            "key": "105005",
+            "val": "Ogbia"
+          },
+          {
+            "key": "105006",
+            "val": "Sagbama"
+          },
+          {
+            "key": "105007",
+            "val": "Southern Ijaw"
+          },
+          {
+            "key": "105008",
+            "val": "Yenagoa"
+          }
+        ],
+        "127": [
+          {
+            "key": "127001",
+            "val": "Abeokuta North"
+          },
+          {
+            "key": "127002",
+            "val": "Abeokuta South"
+          },
+          {
+            "key": "127003",
+            "val": "Ado-Odo/Ota"
+          },
+          {
+            "key": "127004",
+            "val": "Ewekoro"
+          },
+          {
+            "key": "127005",
+            "val": "Ifo"
+          },
+          {
+            "key": "127006",
+            "val": "Ijebu East"
+          },
+          {
+            "key": "127007",
+            "val": "Ijebu North"
+          },
+          {
+            "key": "127008",
+            "val": "Ijebu North East"
+          },
+          {
+            "key": "127009",
+            "val": "Ijebu Ode"
+          },
+          {
+            "key": "127010",
+            "val": "Ikenne"
+          },
+          {
+            "key": "127011",
+            "val": "Imeko Afon"
+          },
+          {
+            "key": "127012",
+            "val": "Ipokia"
+          },
+          {
+            "key": "127013",
+            "val": "Obafemi Owode"
+          },
+          {
+            "key": "127014",
+            "val": "Odeda"
+          },
+          {
+            "key": "127015",
+            "val": "Odogbolu"
+          },
+          {
+            "key": "127016",
+            "val": "Ogun Waterside"
+          },
+          {
+            "key": "127017",
+            "val": "Remo North"
+          },
+          {
+            "key": "127018",
+            "val": "Shagamu"
+          },
+          {
+            "key": "127019",
+            "val": "Yewa North"
+          },
+          {
+            "key": "127020",
+            "val": "Yewa South"
+          }
+        ],
+        "106": [
+          {
+            "key": "106001",
+            "val": "Ado"
+          },
+          {
+            "key": "106002",
+            "val": "Agatu"
+          },
+          {
+            "key": "106003",
+            "val": "Apa"
+          },
+          {
+            "key": "106004",
+            "val": "Buruku"
+          },
+          {
+            "key": "106005",
+            "val": "Gboko"
+          },
+          {
+            "key": "106006",
+            "val": "Guma"
+          },
+          {
+            "key": "106007",
+            "val": "Gwer East"
+          },
+          {
+            "key": "106008",
+            "val": "Gwer West"
+          },
+          {
+            "key": "106009",
+            "val": "Katsina-Ala"
+          },
+          {
+            "key": "106010",
+            "val": "Konshisha"
+          },
+          {
+            "key": "106011",
+            "val": "Kwande"
+          },
+          {
+            "key": "106012",
+            "val": "Logo"
+          },
+          {
+            "key": "106013",
+            "val": "Makurdi"
+          },
+          {
+            "key": "106014",
+            "val": "Obi"
+          },
+          {
+            "key": "106015",
+            "val": "Obi"
+          },
+          {
+            "key": "106016",
+            "val": "Ogbadibo"
+          },
+          {
+            "key": "106017",
+            "val": "Ohimini"
+          },
+          {
+            "key": "106018",
+            "val": "Oju"
+          },
+          {
+            "key": "106019",
+            "val": "Okpokwu"
+          },
+          {
+            "key": "106020",
+            "val": "Oturkpo"
+          },
+          {
+            "key": "106021",
+            "val": "Tarka"
+          },
+          {
+            "key": "106022",
+            "val": "Ukum"
+          },
+          {
+            "key": "106023",
+            "val": "Ushongo"
+          },
+          {
+            "key": "106024",
+            "val": "Vandeikya"
+          }
+        ],
+        "128": [
+          {
+            "key": "128001",
+            "val": "Akoko North-East"
+          },
+          {
+            "key": "128002",
+            "val": "Akoko North-West"
+          },
+          {
+            "key": "128003",
+            "val": "Akoko South-East"
+          },
+          {
+            "key": "128004",
+            "val": "Akoko South-West"
+          },
+          {
+            "key": "128005",
+            "val": "Akure North"
+          },
+          {
+            "key": "128006",
+            "val": "Akure South"
+          },
+          {
+            "key": "128007",
+            "val": "Ese Odo"
+          },
+          {
+            "key": "128008",
+            "val": "Idanre"
+          },
+          {
+            "key": "128009",
+            "val": "Ifedore"
+          },
+          {
+            "key": "128010",
+            "val": "Ilaje"
+          },
+          {
+            "key": "128011",
+            "val": "Ile Oluji/Okeigbo"
+          },
+          {
+            "key": "128012",
+            "val": "Irele"
+          },
+          {
+            "key": "128013",
+            "val": "Odigbo"
+          },
+          {
+            "key": "128014",
+            "val": "Okitipupa"
+          },
+          {
+            "key": "128015",
+            "val": "Ondo East"
+          },
+          {
+            "key": "128016",
+            "val": "Ondo West"
+          },
+          {
+            "key": "128017",
+            "val": "Ose"
+          },
+          {
+            "key": "128018",
+            "val": "Owo"
+          }
+        ],
+        "107": [
+          {
+            "key": "107001",
+            "val": "Abadam"
+          },
+          {
+            "key": "107002",
+            "val": "Askira/Uba"
+          },
+          {
+            "key": "107003",
+            "val": "Bama"
+          },
+          {
+            "key": "107004",
+            "val": "Bayo"
+          },
+          {
+            "key": "107005",
+            "val": "Biu"
+          },
+          {
+            "key": "107006",
+            "val": "Chibok"
+          },
+          {
+            "key": "107007",
+            "val": "Damboa"
+          },
+          {
+            "key": "107008",
+            "val": "Dikwa"
+          },
+          {
+            "key": "107009",
+            "val": "Gubio"
+          },
+          {
+            "key": "107010",
+            "val": "Guzamala"
+          },
+          {
+            "key": "107011",
+            "val": "Gwoza"
+          },
+          {
+            "key": "107012",
+            "val": "Hawul"
+          },
+          {
+            "key": "107013",
+            "val": "Jere"
+          },
+          {
+            "key": "107014",
+            "val": "Kaga"
+          },
+          {
+            "key": "107015",
+            "val": "Kala/Balge"
+          },
+          {
+            "key": "107016",
+            "val": "Konduga"
+          },
+          {
+            "key": "107017",
+            "val": "Kukawa"
+          },
+          {
+            "key": "107018",
+            "val": "Kwaya Kusar"
+          },
+          {
+            "key": "107019",
+            "val": "Mafa"
+          },
+          {
+            "key": "107020",
+            "val": "Magumeri"
+          },
+          {
+            "key": "107021",
+            "val": "Maiduguri"
+          },
+          {
+            "key": "107022",
+            "val": "Marte"
+          },
+          {
+            "key": "107023",
+            "val": "Mobbar"
+          },
+          {
+            "key": "107024",
+            "val": "Monguno"
+          },
+          {
+            "key": "107025",
+            "val": "Ngala"
+          },
+          {
+            "key": "107026",
+            "val": "Nganzai"
+          },
+          {
+            "key": "107027",
+            "val": "Shani"
+          }
+        ],
+        "129": [
+          {
+            "key": "129001",
+            "val": "Aiyedaade"
+          },
+          {
+            "key": "129002",
+            "val": "Aiyedire"
+          },
+          {
+            "key": "129003",
+            "val": "Atakunmosa East"
+          },
+          {
+            "key": "129004",
+            "val": "Atakunmosa West"
+          },
+          {
+            "key": "129005",
+            "val": "Boluwaduro"
+          },
+          {
+            "key": "129006",
+            "val": "Boripe"
+          },
+          {
+            "key": "129007",
+            "val": "Ede North"
+          },
+          {
+            "key": "129008",
+            "val": "Ede South"
+          },
+          {
+            "key": "129009",
+            "val": "Egbedore"
+          },
+          {
+            "key": "129010",
+            "val": "Ejigbo"
+          },
+          {
+            "key": "129011",
+            "val": "Ife Central"
+          },
+          {
+            "key": "129012",
+            "val": "Ife East"
+          },
+          {
+            "key": "129013",
+            "val": "Ife North"
+          },
+          {
+            "key": "129014",
+            "val": "Ife South"
+          },
+          {
+            "key": "129015",
+            "val": "Ifedayo"
+          },
+          {
+            "key": "129016",
+            "val": "Ifelodun"
+          },
+          {
+            "key": "129017",
+            "val": "Ila"
+          },
+          {
+            "key": "129018",
+            "val": "Ilesa East"
+          },
+          {
+            "key": "129019",
+            "val": "Ilesa West"
+          },
+          {
+            "key": "129020",
+            "val": "Irepodun"
+          },
+          {
+            "key": "129021",
+            "val": "Irewole"
+          },
+          {
+            "key": "129022",
+            "val": "Isokan"
+          },
+          {
+            "key": "129023",
+            "val": "Iwo"
+          },
+          {
+            "key": "129024",
+            "val": "Obokun"
+          },
+          {
+            "key": "129025",
+            "val": "Obokun"
+          },
+          {
+            "key": "129026",
+            "val": "Odo Otin"
+          },
+          {
+            "key": "129027",
+            "val": "Ola Oluwa"
+          },
+          {
+            "key": "129028",
+            "val": "Olorunda"
+          },
+          {
+            "key": "129029",
+            "val": "Oriade"
+          },
+          {
+            "key": "129030",
+            "val": "Orolu"
+          },
+          {
+            "key": "129031",
+            "val": "Osogbo"
+          }
+        ],
+        "108": [
+          {
+            "key": "108001",
+            "val": "Abi"
+          },
+          {
+            "key": "108002",
+            "val": "Akamkpa"
+          },
+          {
+            "key": "108003",
+            "val": "Akpabuyo"
+          },
+          {
+            "key": "108004",
+            "val": "Bakassi"
+          },
+          {
+            "key": "108005",
+            "val": "Bekwarra"
+          },
+          {
+            "key": "108006",
+            "val": "Biase"
+          },
+          {
+            "key": "108007",
+            "val": "Boki"
+          },
+          {
+            "key": "108008",
+            "val": "Calabar Municipal"
+          },
+          {
+            "key": "108009",
+            "val": "Calabar South"
+          },
+          {
+            "key": "108010",
+            "val": "Etung"
+          },
+          {
+            "key": "108011",
+            "val": "Ikom"
+          },
+          {
+            "key": "108012",
+            "val": "Obanliku"
+          },
+          {
+            "key": "108013",
+            "val": "Obubra"
+          },
+          {
+            "key": "108014",
+            "val": "Obubra"
+          },
+          {
+            "key": "108015",
+            "val": "Obudu"
+          },
+          {
+            "key": "108016",
+            "val": "Odukpani"
+          },
+          {
+            "key": "108017",
+            "val": "Ogoja"
+          },
+          {
+            "key": "108018",
+            "val": "Yakuur"
+          },
+          {
+            "key": "108019",
+            "val": "Yala"
+          }
+        ],
+        "109": [
+          {
+            "key": "109001",
+            "val": "Aniocha North"
+          },
+          {
+            "key": "109002",
+            "val": "Aniocha South"
+          },
+          {
+            "key": "109003",
+            "val": "Bomadi"
+          },
+          {
+            "key": "109004",
+            "val": "Burutu"
+          },
+          {
+            "key": "109005",
+            "val": "Ethiope East"
+          },
+          {
+            "key": "109006",
+            "val": "Ethiope West"
+          },
+          {
+            "key": "109007",
+            "val": "Ika North East"
+          },
+          {
+            "key": "109008",
+            "val": "Ika South"
+          },
+          {
+            "key": "109009",
+            "val": "Isoko North"
+          },
+          {
+            "key": "109010",
+            "val": "Isoko South"
+          },
+          {
+            "key": "109011",
+            "val": "Ndokwa East"
+          },
+          {
+            "key": "109012",
+            "val": "Ndokwa West"
+          },
+          {
+            "key": "109013",
+            "val": "Okpe"
+          },
+          {
+            "key": "109014",
+            "val": "Oshimili North"
+          },
+          {
+            "key": "109015",
+            "val": "Oshimili South"
+          },
+          {
+            "key": "109016",
+            "val": "Patani"
+          },
+          {
+            "key": "109017",
+            "val": "Sapele"
+          },
+          {
+            "key": "109018",
+            "val": "Udu"
+          },
+          {
+            "key": "109019",
+            "val": "Ughelli North"
+          },
+          {
+            "key": "109020",
+            "val": "Ughelli South"
+          },
+          {
+            "key": "109021",
+            "val": "Ukwuani"
+          },
+          {
+            "key": "109022",
+            "val": "Uvwie"
+          },
+          {
+            "key": "109023",
+            "val": "Warri North"
+          },
+          {
+            "key": "109024",
+            "val": "Warri South"
+          },
+          {
+            "key": "109025",
+            "val": "Warri South West"
+          }
+        ]
+      },
+      "state": [
+        {
+          "key": "100",
+          "val": "Abia",
+          "value": "Abia"
+        },
+        {
+          "key": "101",
+          "val": "Adamawa",
+          "value": "Adamawa"
+        },
+        {
+          "key": "102",
+          "val": "Akwa Ibom",
+          "value": "Akwa Ibom"
+        },
+        {
+          "key": "103",
+          "val": "Anambra",
+          "value": "Anambra"
+        },
+        {
+          "key": "104",
+          "val": "Bauchi",
+          "value": "Bauchi"
+        },
+        {
+          "key": "105",
+          "val": "Bayelsa",
+          "value": "Bayelsa"
+        },
+        {
+          "key": "106",
+          "val": "Benue",
+          "value": "Benue"
+        },
+        {
+          "key": "107",
+          "val": "Borno",
+          "value": "Borno"
+        },
+        {
+          "key": "108",
+          "val": "Cross River",
+          "value": "Cross River"
+        },
+        {
+          "key": "109",
+          "val": "Delta",
+          "value": "Delta"
+        },
+        {
+          "key": "110",
+          "val": "Ebonyi",
+          "value": "Ebonyi"
+        },
+        {
+          "key": "111",
+          "val": "Edo",
+          "value": "Edo"
+        },
+        {
+          "key": "112",
+          "val": "Ekiti",
+          "value": "Ekiti"
+        },
+        {
+          "key": "113",
+          "val": "Enugu",
+          "value": "Enugu"
+        },
+        {
+          "key": "114",
+          "val": "FCT",
+          "value": "FCT"
+        },
+        {
+          "key": "115",
+          "val": "Gombe",
+          "value": "Gombe"
+        },
+        {
+          "key": "116",
+          "val": "Imo",
+          "value": "Imo"
+        },
+        {
+          "key": "117",
+          "val": "Jigawa",
+          "value": "Jigawa"
+        },
+        {
+          "key": "118",
+          "val": "Kaduna",
+          "value": "Kaduna"
+        },
+        {
+          "key": "119",
+          "val": "Kano",
+          "value": "Kano"
+        },
+        {
+          "key": "120",
+          "val": "Katsina",
+          "value": "Katsina"
+        },
+        {
+          "key": "121",
+          "val": "Kebbi",
+          "value": "Kebbi"
+        },
+        {
+          "key": "122",
+          "val": "Kogi",
+          "value": "Kogi"
+        },
+        {
+          "key": "123",
+          "val": "Kwara",
+          "value": "Kwara"
+        },
+        {
+          "key": "124",
+          "val": "Lagos",
+          "value": "Lagos"
+        },
+        {
+          "key": "125",
+          "val": "Nasarawa",
+          "value": "Nasarawa"
+        },
+        {
+          "key": "126",
+          "val": "Niger",
+          "value": "Niger"
+        },
+        {
+          "key": "127",
+          "val": "Ogun",
+          "value": "Ogun"
+        },
+        {
+          "key": "128",
+          "val": "Ondo",
+          "value": "Ondo"
+        },
+        {
+          "key": "129",
+          "val": "Osun",
+          "value": "Osun"
+        },
+        {
+          "key": "130",
+          "val": "Oyo",
+          "value": "Oyo"
+        },
+        {
+          "key": "131",
+          "val": "Plateau",
+          "value": "Plateau"
+        },
+        {
+          "key": "132",
+          "val": "Rivers",
+          "value": "Rivers"
+        },
+        {
+          "key": "133",
+          "val": "Sokoto",
+          "value": "Sokoto"
+        },
+        {
+          "key": "134",
+          "val": "Taraba",
+          "value": "Taraba"
+        },
+        {
+          "key": "135",
+          "val": "Yobe",
+          "value": "Yobe"
+        },
+        {
+          "key": "136",
+          "val": "Zamfara",
+          "value": "Zamfara"
+        }
+      ]
+    }
+  }
+}

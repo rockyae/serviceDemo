@@ -13,8 +13,8 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
-        <spring-cloud.version>2021.0.9</spring-cloud.version>
-        <spring-cloud-alibaba.version>2021.0.6.1</spring-cloud-alibaba.version>
+        <spring-cloud.version>2023.0.3</spring-cloud.version>
+        <spring-cloud-alibaba.version>2023.0.1.2</spring-cloud-alibaba.version>
     </properties>
 
     <packaging>pom</packaging>
@@ -31,6 +31,7 @@
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
                 <version>${spring-cloud.version}</version>
+                <type>pom</type>
                 <scope>import</scope>
             </dependency>
             <dependency>
@@ -45,5 +46,6 @@
     <modules>
         <module>core</module>
         <module>gateway</module>
+        <module>import-tool</module>
     </modules>
 </project>
