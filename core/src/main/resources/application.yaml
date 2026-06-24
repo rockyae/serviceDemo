@@ -1,0 +1,37 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: core
+  cloud:
+    nacos:
+      username: nacos
+      password: nacos
+      discovery:
+        enabled: true
+        server-addr: localhost:8848
+        namespace: public            # 确认命名空间是否与Nacos控制台一致
+        group: DEFAULT_GROUP         # 确认分组
+        service: ${spring.application.name} # 确认是否配置了服务名
+      config:
+        server-addr: ${spring.cloud.nacos.discovery.server-addr}
+  config:
+    import: optional:nacos:${spring.application.name}.yaml
+
+
+#spring:
+#  datasource:
+#    dynamic:
+#      primary: master #设置默认的数据源或者数据源组,默认值即为master
+#      strict: false #严格匹配数据源,默认false. true未匹配到指定数据源时抛异常,false使用默认数据源
+#      datasource:
+#        master:
+#          url: jdbc:mysql://cbs-mysql:3306/account_prod?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true
+#          username: root
+#          password: 123456
+#          driver-class-name: com.mysql.cj.jdbc.Driver # 3.2.0开始支持SPI可省略此配置
+#        quartz:
+#          url: jdbc:mysql://cbs-mysql:3306/quartz?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true
+#          username: root
+#          password: 123456
+#          driver-class-name: com.mysql.cj.jdbc.Driver

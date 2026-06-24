@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce584042-ba72-43b3-bada-b2611451794b" name="Changes" comment="some demo">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/example/test/TestOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="ce584042-ba72-43b3-bada-b2611451794b" name="Changes" comment="test git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core" beforeDir="false" afterPath="$PROJECT_DIR$/core" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/config/LogIntercepter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/config/MyBatisPlusConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/config/MyJobConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/controller/AccountController2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/example/controller/AccountController2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/controller/GlobalPhoneSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/example/controller/GlobalPhoneSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/dto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/example/dto/AccountDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/po/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/example/po/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/example/service/account/impl/AccountServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/example/service/account/impl/AccountServiceImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/example/gateway/DemoGateWayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/example/gateway/DemoGateWayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/core" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rockyae"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rockyae/serviceDemo.git",
+    "accountId": "3f64c5d5-1863-45d7-9f9c-114cc0080e9d"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/dynamic-datasource-spring/4.5.0/dynamic-datasource-spring-4.5.0-sources.jar!/com/baomidou/dynamic/datasource/annotation/DS.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/dynamic-datasource-spring/4.5.0/dynamic-datasource-spring-4.5.0-sources.jar!/com/baomidou/dynamic/datasource/toolkit/DynamicDataSourceContextHolder.java" root0="SKIP_INSPECTION" />
@@ -318,7 +312,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773216195271</updated>
       <workItem from="1782095631805" duration="107000" />
-      <workItem from="1782268922580" duration="1556000" />
+      <workItem from="1782268922580" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="some demo">
       <option name="closed" value="true" />
@@ -328,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778323044081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some demo">
+      <option name="closed" value="true" />
+      <created>1782270603616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782270603616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test git">
+      <option name="closed" value="true" />
+      <created>1782270620953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782270620953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +357,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="some demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="some demo" />
+    <MESSAGE value="test git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

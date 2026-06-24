@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.account.AccountMapper">
+
+    <resultMap id="BaseResultMap" type="com.example.po.Account">
+            <id property="id" column="id" />
+            <result property="accountId" column="account_id" />
+            <result property="accountNo" column="account_no" />
+            <result property="accountName" column="account_name" />
+            <result property="userId" column="user_id" />
+            <result property="userNo" column="user_no" />
+            <result property="customerId" column="customer_id" />
+            <result property="bvn" column="bvn" />
+            <result property="userType" column="user_type" />
+            <result property="accountStatus" column="account_status" />
+            <result property="accountType" column="account_type" />
+            <result property="dcType" column="dc_type" />
+            <result property="countryCode" column="country_code" />
+            <result property="currency" column="currency" />
+            <result property="totalBalance" column="total_balance" />
+            <result property="availableBalance" column="available_balance" />
+            <result property="frozenBalance" column="frozen_balance" />
+            <result property="createTime" column="create_time" />
+            <result property="updateTime" column="update_time" />
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,account_id,account_no,account_name,user_id,user_no,
+        customer_id,bvn,user_type,account_status,account_type,
+        dc_type,country_code,currency,total_balance,available_balance,
+        frozen_balance,create_time,update_time
+    </sql>
+</mapper>
